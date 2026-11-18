@@ -1,0 +1,6 @@
+{
+  "name": "InfoPy Lab — Программалау және олимпиада зертханасы",
+  "description": "Мектеп оқушыларына арналған Python программалау курстары, алгоритм визуализаторы және олимпиада есептерін тексеретін интерактивті оқу платформасы.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
